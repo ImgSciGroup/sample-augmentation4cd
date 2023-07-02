@@ -1,0 +1,1 @@
+condi:0.007  epoch:20 fc:3.5
